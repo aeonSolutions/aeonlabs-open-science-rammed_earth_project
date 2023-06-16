@@ -18,7 +18,7 @@
 
 # Rammed Earth Project
 
-(under construction)
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embbeded sensors into constrution materials like this one. 
 
 <br>
 
