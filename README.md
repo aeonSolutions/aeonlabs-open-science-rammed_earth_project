@@ -37,13 +37,18 @@ I've started preliminary works on my future project in the area of "rammed earth
   click to view a 360 view of the specimen on Youtube
 </p>
 
+<br>
 
+## Experimental Data Repository
+
+The experimental data is hosted at the University of Harvard's data repository, dataverse. More info about it can be found [here](http://www.dataverse.org).
+
+| <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/dataverse_r_project.png" width="250"> | https://dataverse.harvard.edu/dataverse/AeonLabsRammedEarthProject |
+|-------------|:------|
 
 
 <br>
 <br>
-
-https://dataverse.harvard.edu/dataverse/AeonLabsRammedEarthProject
 
 **Get a Notification on every PCB update**
 
@@ -52,9 +57,7 @@ https://dataverse.harvard.edu/dataverse/AeonLabsRammedEarthProject
 
 **Suport**
 
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
-
-<br>
+If you like this project please consider supporting it. Links at the top, bottom and right side pane. Thank you.
 
 <br />
 <br />
