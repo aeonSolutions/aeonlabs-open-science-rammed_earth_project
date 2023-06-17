@@ -39,6 +39,10 @@ I've started preliminary works on my future project in the area of "rammed earth
 
 <br>
 
+To continue reading about this project go [here](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki).
+
+<br>
+
 ## Experimental Data Repository
 
 The experimental data is hosted at the University of Harvard's data repository, dataverse. More info about it can be found [here](http://www.dataverse.org).
