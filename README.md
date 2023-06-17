@@ -27,7 +27,11 @@ I've started preliminary works on my future project in the area of "rammed earth
 <br>
 
 <p align="center">
-  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  height="350">
+  <a href="https://www.youtube.com/watch?v=RYb2yxGig3E">
+    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  height="350">
+  </a>
+  <br>
+  click to view a 360 view of the specimen on Youtube
 </p>
 
 <br>
