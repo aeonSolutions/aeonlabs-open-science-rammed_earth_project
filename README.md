@@ -28,20 +28,22 @@ I've started preliminary works on my future project in the area of "rammed earth
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RYb2yxGig3E">
-    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  height="350">
+    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  width="45%">
+
+  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  width="45%">
   </a>
+
   <br>
   click to view a 360 view of the specimen on Youtube
 </p>
 
-<br>
 
-<p align="center">
-  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="350">
-</p>
+
 
 <br>
 <br>
+
+https://dataverse.harvard.edu/dataverse/AeonLabsRammedEarthProject
 
 **Get a Notification on every PCB update**
 
