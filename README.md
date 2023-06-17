@@ -22,19 +22,34 @@
 
 # Rammed Earth Project
 
-I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embbeded sensors into constrution materials like this one. 
+I've started preliminary works on my future project in the area of "rammed earth" construction. The very first task is to understand embedded sensors into construction materials like this one.
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  height="350">
+  <a href="https://www.youtube.com/watch?v=RYb2yxGig3E">
+    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers.jpg"  width="45%">
+
+  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  width="45%">
+  </a>
+
+  <br>
+  click to view a 360 view of the specimen on Youtube
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/specimens/photos/preliminary/rammed_earth_carbon_fibers_sensor_testitng.jpg"  height="350">
-</p>
+To continue reading about this project go [here](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki).
+
+<br>
+
+## Experimental Data Repository
+
+The experimental data is hosted at the University of Harvard's data repository, dataverse. More info about it can be found [here](http://www.dataverse.org).
+
+| <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/dataverse_r_project.png" width="250"> | https://dataverse.harvard.edu/dataverse/AeonLabsRammedEarthProject |
+|-------------|:------|
+
 
 <br>
 <br>
@@ -46,9 +61,7 @@ I've started preliminary works on my future project in the area of "rammed earth
 
 **Suport**
 
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
-
-<br>
+If you like this project please consider supporting it. Links at the top, bottom and right side pane. Thank you.
 
 <br />
 <br />
